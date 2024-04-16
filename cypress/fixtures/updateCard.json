@@ -1,0 +1,13 @@
+{
+    "firstname": "Артем",
+    "lastname": "Иванов",
+    "patronymic": "Сергеевич",
+    "email": "artem@example.com",
+    "about": "Опытный разработчик",
+
+    "invalidFirstname": "НеправильныйИмя",
+    "invalidLastname": "НеправильныйФамилия",
+    "invalidPatronymic": "НеправильныйОтчество",
+    "invalidEmail": "неверный_email@example",
+    "invalidAbout": "НеправильноеОписание"
+}

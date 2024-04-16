@@ -1,0 +1,14 @@
+{
+    "login": "пользователь123",
+    "email": "почта@пример.com",
+    "password": "СложныйПароль123",
+    "firstname": "Петр",
+    "lastname": "Петров",
+    
+    "invalidLogin": "некорректныйЛогин",
+    "invalidEmail": "некорректнаяПочта",
+    "invalidPassword": "слабыйПароль",
+    "invalidPassword2": "паролиНеСовпадают",
+    "invalidLastname": "некорректнаяФамилия",
+    "invalidFirstname": "некорректноеИмя"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "название должности",
+    "requirements": "требования к кандидату",
+    "responsibilities": "обязанности и задачи",
+
+
+    "invalidName": "неправильное имя",
+    "invalidRequirements": "неправильные требования",
+    "invalidResponsibilities": "неправильные обязанности"
+}

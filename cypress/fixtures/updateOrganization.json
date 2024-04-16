@@ -1,0 +1,17 @@
+{
+    "name": "Экземпляр",
+    "description": "Основные направления деятельности включают в себя разработку и производство инновационных технологий в области связи и радиотехники.",
+    "face": "Контакты",
+    "street": "ул. Ленинградская, 123, г. Москва, Россия, 101000",
+    "number": "+7(495)123-45-67",
+    "email": "info@example.com",
+    "site": "https://example.com",
+
+    "invalidName": "Некорректное_наименование",
+    "invalidDescription": "Некорректное_описание",
+    "invalidFace": "Некорректные_контакты",
+    "invalidStreet": "Некорректный_адрес",
+    "invalidNumber": "Некорректный_телефон",
+    "invalidEmail": "invalid_email@example",
+    "invalidSite": "https://invalid.example"
+}
