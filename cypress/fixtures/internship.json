@@ -1,14 +1,14 @@
 {
-     "jobTitle": "Инженер-программист",
+     "jobTitle": "Программист",
      "startDate": "2024-05-01",
      "endDate": "2024-06-01",
      "requirements": "Требуется кандидат с опытом программирования на языке JavaScript",
      "responsibilities": "Разработка и поддержка клиентской части веб-приложения",
  
-     "invalidJobTitle": "Неверное название должности",
-     "invalidStartDate": "Неправильная дата начала",
-     "invalidEndDate": "Неправильная дата окончания",
-     "invalidRequirements": "Неверные требования",
-     "invalidResponsibilities": "Неверные обязанности"
+     "invalidJobTitle": "неверное название должности",
+     "invalidStartDate": "неправильная дата начала",
+     "invalidEndDate": "неправильная дата окончания",
+     "invalidRequirements": "неверные требования",
+     "invalidResponsibilities": "неверные обязанности"
  }
  
